@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**jQuery**](https://codecrashers.nl/cursussen/jquery) cursus van CodeCrashers.
+Deze repository correspondeert met de [**jQuery**](https://codecrashers.nl/lesmateriaal/jquery) cursus van CodeCrashers.
 
 ---
 
